@@ -1,4 +1,4 @@
-#### Proyecto-Ventas
+## Proyecto-Ventas
 #### Tecnologías
 **Tecnologia1: _python_**<br>
 **Tecnologia2: _Git-Hub_**
