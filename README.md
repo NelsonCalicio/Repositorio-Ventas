@@ -6,5 +6,5 @@ Tecnologia2: _Git-Hub_
 + Nombre: Nelson Lorenzo Calicio Tubac<br>
 + Clave: 04
 #### Estructuras utilizadas
- - For
- - If
+ 1. For
+ 2. If
