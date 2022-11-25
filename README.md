@@ -8,3 +8,6 @@ Tecnologia2: _Git-Hub_
 #### Estructuras utilizadas
  1. For
  2. If
+#### Descripción
+En este documento _python_  se encuentra una solución informática que permita registrar las ventas
+del almacén El Buen Precio correspondiente a los dos semestres del año 2021.
